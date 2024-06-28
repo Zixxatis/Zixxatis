@@ -1,5 +1,5 @@
 ## 👋 Greetings! 
-My name is Ivan, and I am a C#/Unity developer with a passion for creating engaging PC and mobile games. I started my journey in March 2023, and since then, I have been improving my skills in game development. I also enjoy creating simple yet effective CLI applications that solve my everyday problems.
+My name is Ivan, and I am a Unity Developer with a passion for creating engaging PC and mobile games. I started my journey in March 2023, and since then, I have been improving my skills in game development. I also enjoy creating simple yet effective CLI applications that solve my everyday problems.
 
 In addition to my game development expertise, I have over two years of experience working with 2D graphics.
 
@@ -23,21 +23,21 @@ In addition to my game development expertise, I have over two years of experienc
 ![Blender](https://img.shields.io/badge/-blender-090909?style=for-the-badge&logo=blender)
 
 ## 🎮 My Projects 
-### Loot Lagoon Plunder
-A 2D pixel rogue-lite platformer prototype in Unity for PC / WebGL.
-
-[![LLP-Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/Zixxatis/Loot-Lagoon-Plunder)
-[![LLP-itch](https://img.shields.io/badge/-itch.io-090909?style=for-the-badge&logo=itchdotio)](https://zixxatis.itch.io/loot-lagoon-plunder)
-
 ### Hundred Cells
 A mobile puzzle game in Unity for Android / WebGL.
 
 [![HC-Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/Zixxatis/Hundred-Cells)
 [![HC-itch](https://img.shields.io/badge/-itch.io-090909?style=for-the-badge&logo=itchdotio)](https://zixxatis.itch.io/hundred-cells)
 
+### Loot Lagoon Plunder
+A 2D pixel rogue-lite platformer in Unity for PC / WebGL.
+
+[![LLP-Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/Zixxatis/Loot-Lagoon-Plunder)
+[![LLP-itch](https://img.shields.io/badge/-itch.io-090909?style=for-the-badge&logo=itchdotio)](https://zixxatis.itch.io/loot-lagoon-plunder)
+
 ## 📄 My Resume/CV
-[![Ru](https://img.shields.io/badge/-View_in_RU-090909?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1YWnIEkqKd4LPMHs7OBUclFyZk5P9XBHeimD22r2OM_o/edit?usp=sharing)
-[![Eng](https://img.shields.io/badge/-View_in_ENG-090909?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1G3EZbslP8XM7ktcjeVxfx2g_hyCjGMNsM9xDKhxU7qk/edit?usp=sharing)
+[![Eng](https://img.shields.io/badge/-View_in_ENG-090909?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1H5vywU2znC7jlT6aQj1MY98dQY-082yftXPpKL7HmIM)
+[![Ru](https://img.shields.io/badge/-View_in_RU-090909?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1YWnIEkqKd4LPMHs7OBUclFyZk5P9XBHeimD22r2OM_o/)
 
 ## 🌐 Contact Me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/i9v_03)
