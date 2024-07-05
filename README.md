@@ -1,15 +1,13 @@
 ## 👋 Greetings! 
 My name is Ivan, and I am a Unity Developer with a passion for creating engaging PC and mobile games. I started my journey in March 2023, and since then, I have been improving my skills in game development. I also enjoy creating simple yet effective CLI applications that solve my everyday problems.
 
-In addition to my game development expertise, I have over two years of experience working with 2D graphics.
-
 ## </> Languages and Technologies
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=a57fde)
-![C#](https://img.shields.io/badge/-dotnet-090909?style=for-the-badge&logo=dotnet&logoColor=a87cde)
+![DOTNET](https://img.shields.io/badge/-dotnet-090909?style=for-the-badge&logo=dotnet&logoColor=a87cde)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
-![ChatGPT](https://img.shields.io/badge/-chatgpt-090909?style=for-the-badge&logo=openai)
 
 ## 💻 Soft
 ![Visual Studio](https://img.shields.io/badge/-visual_studio-090909?style=for-the-badge&logo=visualstudio&logoColor=a87cde)
