@@ -1,5 +1,5 @@
 ## 👋 Greetings! 
-My name is Ivan, and I am a Unity Developer with a passion for creating engaging PC and mobile games. I started my journey in March 2023, and since then, I have been improving my skills in game development. I also enjoy creating simple yet effective CLI applications that solve my everyday problems.
+My name is Ivan, and I am a Unity Developer with a passion for creating engaging PC and mobile games. I started my journey in 2023, and since then, I have been improving my skills in game development. I also enjoy creating simple yet effective CLI applications that solve my everyday problems.
 
 ## </> Languages and Technologies
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=a57fde)
