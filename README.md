@@ -33,9 +33,6 @@ A 2D pixel rogue-lite platformer in Unity for PC / WebGL.
 [![LLP-Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/Zixxatis/Loot-Lagoon-Plunder)
 [![LLP-itch](https://img.shields.io/badge/-itch.io-090909?style=for-the-badge&logo=itchdotio)](https://zixxatis.itch.io/loot-lagoon-plunder)
 
-## 📄 My Resume/CV
-[![Eng](https://img.shields.io/badge/-View_in_ENG-090909?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1H5vywU2znC7jlT6aQj1MY98dQY-082yftXPpKL7HmIM)
-[![Ru](https://img.shields.io/badge/-View_in_RU-090909?style=for-the-badge&logo=googledocs)](https://docs.google.com/document/d/1YWnIEkqKd4LPMHs7OBUclFyZk5P9XBHeimD22r2OM_o/)
 
 ## 🌐 Contact Me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/i9v_03)
